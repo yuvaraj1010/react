@@ -1,0 +1,19 @@
+#app{
+  margin-top: 50px;
+
+}
+.view{
+  margin-left: 50px;
+  background-color: rgb(106, 161, 248);
+  font-size: medium;
+  border-radius: 10px;
+  color: black;
+}
+
+.add{
+  /* margin-left: 450px; */
+  background-color: rgb(106, 161, 248);
+  font-size: medium;
+  border-radius: 10px;
+  color: black;
+}

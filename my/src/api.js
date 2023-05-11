@@ -1,0 +1,1 @@
+export const Api='https://640ef742cde47f68db3d3e38.mockapi.io/crudapp'

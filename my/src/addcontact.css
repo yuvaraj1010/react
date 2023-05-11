@@ -1,0 +1,25 @@
+.main {
+  
+  margin-top: 50px;
+  width: 250px;
+  height: 230px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 2px 2px 2px 2px rgb(4, 14, 68);
+  border-radius: 10px;
+  background-color: rgb(142, 157, 252);
+}
+.submain{
+  padding-top: 20px;
+}
+input{
+color: black;
+font-weight: bold;
+}
+.save {
+  background-color: rgb(16, 218, 9);
+  border: 1px solid rgb(13, 222, 68);
+  border-radius: 30px;
+  box-shadow: 2px 2px 2px 2px rgb(207, 207, 207);
+}

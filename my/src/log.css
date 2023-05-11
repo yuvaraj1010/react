@@ -1,0 +1,37 @@
+button{
+    width: 40px;
+    height: 35px;
+    font-size: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 5px 10px 3px rgb(97, 192, 13);
+    background-color: rgb(97, 184, 179);
+    font-size: 19px;
+    
+}
+button:hover{
+    background-color: red;
+}
+#display{
+    border-radius: 10px;
+    background-color: rgb(147, 237, 181);
+    color:black;
+    
+   
+    
+}
+#uv:hover{
+    background-color: green;
+}
+#uv{
+    background-color: blue;
+}
+#vu:hover{
+    background-color: yellowgreen;
+
+}
+#raj:hover{
+    background-color: green;
+    
+    
+    
+}
